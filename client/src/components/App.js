@@ -5,9 +5,9 @@ import Auth from "../hoc/auth";
 import LandingPage from "./views/LandingPage/LandingPage.js";
 import LoginPage from "./views/LoginPage/LoginPage.js";
 import RegisterPage from "./views/RegisterPage/RegisterPage.js";
-import VideoUploadPage from "./views/Video/VideoUploadPage/VideoUploadPage";
-import VideoDetailPage from "./views/Video/VideoDetailPage/VideoDetailPage";
-import SubscriptionPage from "./views/Video/SubscriptionPage/SubscriptionPage";
+import VideoUploadPage from "./views/Happytube/VideoUploadPage/VideoUploadPage";
+import VideoDetailPage from "./views/Happytube/VideoDetailPage/VideoDetailPage";
+import SubscriptionPage from "./views/Happytube/SubscriptionPage/SubscriptionPage";
 import NavBar from "./views/NavBar/NavBar";
 import Footer from "./views/Footer/Footer"
 
